@@ -29,7 +29,7 @@
 
 **Description** : This shows a Power BI overview of Insurance Policies in 2022
 
-![
+![INSURANCE POWER BI](INSURANCE POWER BI.PNG)
 
 
 
