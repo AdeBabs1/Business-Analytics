@@ -21,5 +21,6 @@
 
 **Description** : This shows a Power BI overview of workplace safety in 2022
 
+![WORKPLACEPOWERBIDASHBOARD](WORKPLACEPOWERBIDASHBOARD.PNG)
 
 
