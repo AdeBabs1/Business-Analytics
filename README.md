@@ -15,3 +15,11 @@
 
 ![RETAILSALESDASHBOARD](RETAILSALESDASHBOARD.PNG)
 
+# Project 3
+
+**Title** : [Workplace safety power BI Dashboard 2022](https://github.com/AdeBabs1/dataanalytics)
+
+**Description** : This shows a Power BI overview of workplace safety in 2022
+
+
+
