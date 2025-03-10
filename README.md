@@ -37,7 +37,7 @@ This Power BI project provides a comprehensive overview of workplace safety in 2
 
 **Description** : This shows a Power BI overview of Insurance Policies in 2022 leveraging interactive dashboards and dynamic visualizations to provide key insights.
 
-Using Power BI's data modeling, it highlights policy distribution, claim trends, premium collections, and customer demographics. The dashboard offers insights into customer demographics, risk assessment patterns, and claims processing efficiency, enabling stakeholders to identify opportunities for optimizing policy management and enhancing customer satisfaction.
+Using Power BI's data modeling, it highlights policy distribution, claim trends, and premium collections. The dashboard offers insights into customer demographics, risk assessment patterns, and claims processing efficiency, enabling stakeholders to identify opportunities for optimizing policy management and enhancing customer satisfaction.
 
 ![INSURANCEPOWERBI](INSURANCEPOWERBI.PNG)
 
