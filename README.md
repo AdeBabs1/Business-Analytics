@@ -17,7 +17,7 @@ This project provides a comprehensive overview of NIKE's retail partner sales pe
 
 **Description** : This is a summary of the retail sales for 2019/2020. 
 
-It provides a comprehensive summary of retail sales for 2019 and 2020, leveraging Excel for data cleaning, analysis, and visualization. The dataset was processed using advanced Excel functions, including pivot tables, VLOOKUP, IF statements, and dynamic charts, to uncover key sales trends, seasonal patterns, and revenue fluctuations. The analysis highlights year-over-year performance, identifying top-performing products, sales distribution across regions, and customer purchasing behaviors. By transforming raw sales data into actionable insights, this project demonstrates strong data storytelling, trend analysis, and business intelligence skills essential for decision-making.
+It provides a comprehensive summary of retail sales for 2019/2020, leveraging Excel for data cleaning, analysis, and visualization. The dataset was processed using advanced Excel functions, including pivot tables, VLOOKUP, IF statements, and dynamic charts, to uncover key sales trends, seasonal patterns, and revenue fluctuations. The analysis highlights year-over-year performance, identifying top-performing products, sales distribution across regions, and customer purchasing behaviors. By transforming raw sales data into actionable insights, this project demonstrates strong data storytelling, trend analysis, and business intelligence skills essential for decision-making.
 
 ![RETAILSALESDASHBOARD](RETAILSALESDASHBOARD.PNG)
 
