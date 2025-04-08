@@ -43,7 +43,7 @@ Using Power BI's data modeling, it highlights policy distribution, claim trends,
 
 # Project 5
 
-**Title** : https://github.com/AdeBabs1/dataanalytics/blob/main/Dashboard_2025.PNG
+**Title** : [PREMIUMTECH SALE PERFORMANCE DASHBOARD](https://github.com/AdeBabs1/dataanalytics)
 
 **Description** : This project features a sales dashboard created for PremiumTech Stores using Microsoft Excel. It leverages Pivot Tables, Charts, and VLOOKUP to clean, merge, and analyze multiple datasets.
 
@@ -58,7 +58,7 @@ Tools & Functions
 Excel | Pivot Tables | Charts | VLOOKUP | Conditional Formatting | Slicers
 This dashboard supports data-driven decisions by presenting insights into sales performance, product trends, and customer behavior.
 
-<img width="432" alt="Dashboard_2025" src="https://github.com/user-attachments/assets/b37a246a-ac26-4d7c-8bfc-41be8bdf104b" />
+<img width="1432" alt="Dashboard_2025" src="https://github.com/user-attachments/assets/b37a246a-ac26-4d7c-8bfc-41be8bdf104b" />
 
 
 
