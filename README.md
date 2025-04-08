@@ -80,7 +80,7 @@ Excel tools like Pivot Tables, Charts, VLOOKUP and Slicers were used to produce
 this dashboard to support data-driven decisions by presenting insights into sales performance, product trends, and customer behavior.
 
 
-![PremiumTech Sales Performance](PremiunTech.PNG)
+![PremiumTech Sales Performance][(PremiunTech.PNG)](https://github.com/AdeBabs1/Business-Analytics/blob/main/Premiun%20Tech.PNG)
 
 
 
