@@ -59,7 +59,7 @@ Using Power BI's data modeling, it highlights policy distribution, claim trends,
 Using excel, raw data were cleaned and prepared for analysis
 merging datasets using VLOOKUP for a unified view
 and Pivot Tables were used to summarize key metrics (sales, products, regions)
-to create dynamic charts to visualize trends and performance
+to create dynamic charts to visualize trends and performance for 2022/2023
 which led to buidling an interactive, user-friendly dashboard layout
 
 Excel tools like Pivot Tables, Charts, VLOOKUP and Slicers were used to produce
