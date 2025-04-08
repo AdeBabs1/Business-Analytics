@@ -79,7 +79,10 @@ which led to buidling an interactive, user-friendly dashboard layout
 Excel tools like Pivot Tables, Charts, VLOOKUP and Slicers were used to produce
 this dashboard to support data-driven decisions by presenting insights into sales performance, product trends, and customer behavior.
 
-<img width="1432" alt="Dashboard_2025" src="https://github.com/user-attachments/assets/b37a246a-ac26-4d7c-8bfc-41be8bdf104b" />
+
+
+
+
 
 
 
