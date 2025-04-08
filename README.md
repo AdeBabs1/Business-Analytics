@@ -1,13 +1,17 @@
 
 # Babatunde Adegbindin Data Analytics Portfolio 
 # These projects showcases expertise in data visualization, business intelligence, and analytical storytelling, transforming raw data into actionable insights for strategic planning.
+
 # Project 1
 
 **Title** : [Nike Retail Partners Dashboard 2022](https://github.com/AdeBabs1/dataanalytics)
 
 **Description** : This shows an overview of sales from NIKE Retail partners in 2022.
 
-This project provides a comprehensive overview of NIKE's retail partner sales performance in 2022. Using Excel for data cleaning, transformation, initial analysis, and dynamic visualizations and insights, this project highlights key sales trends, revenue distribution, and partner performance. The dashboard includes metrics such as total sales, regional performance breakdowns, top-performing products, and seasonal trends, offering valuable business intelligence for decision-making.
+This project provides a comprehensive overview of NIKE's retail partner sales performance in 2022. 
+
+Using Excel for data cleaning, transformation, initial analysis, and dynamic visualizations and insights, this project highlights key sales trends, revenue distribution, and partner performance. 
+The dashboard includes metrics such as total sales, regional performance breakdowns, top-performing products, and seasonal trends, offering valuable business intelligence for decision-making.
 
 ![NIKEDASHBOARD](NIKEDASHBOARD.PNG)
 
@@ -17,7 +21,10 @@ This project provides a comprehensive overview of NIKE's retail partner sales pe
 
 **Description** : This is a summary of the retail sales for 2019/2020. 
 
-It provides a comprehensive summary of retail sales for 2019/2020, leveraging Excel for data cleaning, analysis, and visualization. The dataset was processed using advanced Excel functions, including pivot tables, VLOOKUP, IF statements, and dynamic charts, to uncover key sales trends, seasonal patterns, and revenue fluctuations. The analysis highlights year-over-year performance, identifying top-performing products, sales distribution across regions, and customer purchasing behaviors. By transforming raw sales data into actionable insights, this project demonstrates strong data storytelling, trend analysis, and business intelligence skills essential for decision-making.
+This project provides a comprehensive summary of retail sales for 2019/2020, leveraging Excel for data cleaning, analysis, and visualization. 
+
+The dataset was processed using advanced Excel functions, including pivot tables, VLOOKUP, IF statements, and dynamic charts, to uncover key sales trends, seasonal patterns, and revenue fluctuations. The analysis highlights year-over-year performance, identifying top-performing products, sales distribution across regions, and customer purchasing behaviors. 
+By transforming raw sales data into actionable insights, this project demonstrates strong data storytelling, trend analysis, and business intelligence skills essential for decision-making.
 
 ![RETAILSALESDASHBOARD](RETAILSALESDASHBOARD.PNG)
 
@@ -27,7 +34,9 @@ It provides a comprehensive summary of retail sales for 2019/2020, leveraging Ex
 
 **Description** : This shows a Power BI overview of workplace safety in 2022. 
 
-This Power BI project provides a comprehensive overview of workplace safety in 2022, transforming raw safety data into actionable insights through dynamic visualizations and interactive dashboards. Using Power BI's data modeling, DAX calculations, and custom visualizations, this analysis highlights key safety metrics, including incident rates, injury trends, compliance levels, and high-risk areas across different departments. The dashboard enables stakeholders to identify patterns, track safety improvements, and make data-driven decisions to enhance workplace safety protocols.
+This Power BI project provides a comprehensive overview of workplace safety in 2022, transforming raw safety data into actionable insights through dynamic visualizations and interactive dashboards. 
+
+Using Power BI's data modeling, DAX calculations, and custom visualizations, this analysis highlights key safety metrics, including incident rates, injury trends, compliance levels, and high-risk areas across different departments. The dashboard enables stakeholders to identify patterns, track safety improvements, and make data-driven decisions to enhance workplace safety protocols.
 
 ![WORKPLACEPOWERBIDASHBOARD](WORKPLACEPOWERBIDASHBOARD.PNG)
 
