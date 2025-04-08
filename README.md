@@ -41,6 +41,26 @@ Using Power BI's data modeling, it highlights policy distribution, claim trends,
 
 ![INSURANCEPOWERBI](INSURANCEPOWERBI.PNG)
 
+# Project 5
+
+**Title** : https://github.com/AdeBabs1/dataanalytics/blob/main/Dashboard_2025.PNG
+
+**Description** : This project features a sales dashboard created for PremiumTech Stores using Microsoft Excel. It leverages Pivot Tables, Charts, and VLOOKUP to clean, merge, and analyze multiple datasets.
+
+Key Highlights
+Cleaned and prepared raw data for analysis
+Merged datasets using VLOOKUP for a unified view
+Used Pivot Tables to summarize key metrics (sales, products, regions)
+Created dynamic charts to visualize trends and performance
+Built an interactive, user-friendly dashboard layout
+
+Tools & Functions
+Excel | Pivot Tables | Charts | VLOOKUP | Conditional Formatting | Slicers
+This dashboard supports data-driven decisions by presenting insights into sales performance, product trends, and customer behavior.
+
+<img width="432" alt="Dashboard_2025" src="https://github.com/user-attachments/assets/b37a246a-ac26-4d7c-8bfc-41be8bdf104b" />
+
+
 
 
 
