@@ -1,11 +1,10 @@
 
 # Babatunde Adegbindin Portfolio 
 
-# Hello, 
-Iam Babatunde Adegbindin, a passionate and detail-oriented Business Analyst with a strong foundation in data analysis, visualization, and reporting. I specialize in turning raw data into clear, actionable insights that drive strategic decision-making.
-With experience in tools like Microsoft Excel, Power BI, and SQL, I enjoy solving business problems through data storytelling and interactive dashboards. My approach combines analytical thinking with a focus on business value.
+Welcome to the portfolio of Babatunde Adegbindin, a passionate and detail-oriented Business Analyst with a strong foundation in data analysis, visualization, and reporting. I specialize in turning raw data into clear, actionable insights that drive strategic decision-making. With experience in tools like Microsoft Excel, Power BI, and SQL, I enjoy solving business problems through data storytelling and interactive dashboards. My approach combines analytical thinking with a focus on business value.
 
-Welcome to my portfolio! Here you will find a collection of projects showcasing my skills in:
+Welcome to my portfolio! 
+Here you will find a collection of projects showcasing my skills in:
 
 Dashboard Creation (Excel & Power BI)
 Data Cleaning & Transformation
