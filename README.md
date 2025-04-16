@@ -79,6 +79,9 @@ which led to buidling an interactive, user-friendly dashboard layout
 Excel tools like Pivot Tables, Charts, VLOOKUP and Slicers were used to produce
 this dashboard to support data-driven decisions by presenting insights into sales performance, product trends, and customer behavior.
 
+![PremiumTech Sales](./images/premiumtech.png)
+
+
 
 
 
