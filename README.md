@@ -1,7 +1,8 @@
 
-# Abdulganiyu Babatunde Adegbindin Portfolio 
+# Abdulganiyu Babatunde Adegbindin's Portfolio 
 
-Welcome to the portfolio of Abdulganiyu Babatunde Adegbindin, a passionate and detail-oriented Business Analyst with a strong foundation in data analysis, visualization, and reporting. I specialize in turning raw data into clear, actionable insights that drive strategic decision-making. With experience in tools like Microsoft Excel, Power BI, and SQL, I enjoy solving business problems through data storytelling and interactive dashboards. My approach combines analytical thinking with a focus on business value.
+Hello,
+I am Abdulganiyu Babatunde Adegbindin, a passionate and detail-oriented Business Analyst with a strong foundation in data analysis, visualization, and reporting. I specialize in turning raw data into clear, actionable insights that drive strategic decision-making. With experience in tools like Microsoft Excel, Power BI, and SQL, I enjoy solving business problems through data storytelling and interactive dashboards. My approach combines analytical thinking with a focus on business value.
 
 Welcome to my portfolio! 
 Here you will find a collection of projects showcasing my skills in:
@@ -12,8 +13,7 @@ Data Integration using functions like VLOOKUP and XLOOKUP
 Insights & Reporting through pivot tables, charts, and KPIs
 Business Insights & Recommendations
 
-These projects showcases expertise in data visualization, business intelligence, and analytical storytelling, transforming raw data into actionable insights for strategic planning.
-Each project reflects real-world business scenarios—from sales tracking to customer segmentation—demonstrating how I translate data into insight.
+These projects showcases expertise in data visualization, business intelligence, and analytical storytelling, transforming raw data into actionable insights for strategic planning. Each project reflects real-world business scenarios—from sales tracking to customer segmentation—demonstrating how I translate data into insight.
 
 
 # Project 1
@@ -79,7 +79,8 @@ which led to buidling an interactive, user-friendly dashboard layout
 Excel tools like Pivot Tables, Charts, VLOOKUP and Slicers were used to produce
 this dashboard to support data-driven decisions by presenting insights into sales performance, product trends, and customer behavior.
 
-![PremiumTechSales](Premiun Tech.PNG)
+![PremiumTechSales](<img width="926" alt="Premiun Tech" src="https://github.com/user-attachments/assets/95da3bf1-a6d2-4baa-8a66-26a623203080" />
+)
 
 
 
