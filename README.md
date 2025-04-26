@@ -82,20 +82,19 @@ this dashboard to support data-driven decisions by presenting insights into sale
 ![Premiun Tech](PremiunTech.PNG)
 
 
+# Project 6
 
+**Title** : [SUNSET HOSPITALITY PERFORMANCE DASHBOARD](https://github.com/AdeBabs1/dataanalytics)
 
+**Description** : This project provides insights into the Sunset Hospitality performance for a selected period.
 
+It provides a comprehensive view of key booking and guest behavior metrics to support strategic decision-making. 
 
+Built in Excel, it simplifies complex data into actionable insights by focusing on critical questions. It highlights trends in cancellation rates by hotel type, occupancy patterns across seasons, and booking behaviors segmented by country. 
+It also identifies top-performing market segments and channels, pinpoints the busiest and slowest periods of the year, and uncovers differences between repeat and new guests. 
+With a clear and interactive layout, this dashboard empowers Sunset Hospitality to optimize operations, improve guest loyalty, and drive revenue growth.
 
-
-
-
-
-
-
-
-
-
+![Sunset_Hospitality_Group](Sunset_Hospitality_Dashboard.PNG)
 
 
 
