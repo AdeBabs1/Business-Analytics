@@ -94,8 +94,7 @@ Built in Excel, it simplifies complex data into actionable insights by focusing 
 It also identifies top-performing market segments and channels, pinpoints the busiest and slowest periods of the year, and uncovers differences between repeat and new guests. 
 With a clear and interactive layout, this dashboard empowers Sunset Hospitality to optimize operations, improve guest loyalty, and drive revenue growth.
 
-![Sunset_Hospitality_Group](Sunset_Hospitality_Dashboard.PNG)
-
+![Sunset_Hospitality_Group](SunsetHtl.PNG)
 
 
 
