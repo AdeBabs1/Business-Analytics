@@ -97,6 +97,48 @@ With a clear and interactive layout, this dashboard empowers Sunset Hospitality 
 ![Sunset_Hospitality_Group](SunsetHtl.PNG)
 
 
+# Project 7
+
+**Title** : [D HOSPITAL DASHBOARD](https://github.com/AdeBabs1/dataanalytics)
+
+**Description** : D Hospital performance.
+
+This Hospital Transaction Dashboard provides a comprehensive visual representation of key financial and operational metrics for a healthcare facility. 
+
+Data Sourced from Structured hospital transaction data, from the electronic health records (EHR).
+
+It is designed to aid decision-makers—such as hospital administrators, financial analysts, and healthcare managers—in monitoring revenue, expenses, profitability, 
+
+and service utilization across various specialties and procedures.
+
+The dashboard was developed to aggregate, visualize, and analyze hospital transaction data. KPIs for high-level overview:
+
+Detailed visual analytics, including: Revenue trends by year and quarter, Revenue distribution by specialty and category, Revenue, expenses, and margin breakdown by procedure, 
+
+and Filters for doctor and patient gender, state, and year
+
+Microsoft Power BI and Excel tools were used for initial ETL Processes (Extract, Transform, Load):
+
+DAX functions for metric calculations like profit margins, revenue totals, and transaction counts.
+
+Data Visualization tools like KPI cards, charts, and tables for presentation and creating graphs and charts for time trends, specialties, and procedure details.
+
+Slicers and filters for interactivity with the data by gender, state, and year and for dashboard Interactivity.
+
+The Dashboard as a whole Investigates and advised based on insights
+
+Declining Revenue: The sharp drop in 2023 Q2 and Q3 should be urgently analyzed. Possible causes include reduced patient intake, lower procedure volume, or billing inefficiencies.
+
+Resource Optimization: With almost one doctor per patient, re-evaluate staff deployment or explore patient acquisition strategies.
+
+Focus on High-Yield Specialties and Procedures: Invest more in marketing or resources for Dermatology and high-margin procedures like Skin Biopsy and Knee Replacement.
+
+Geographic and Gender Filtering: Leverage state-level and demographic insights (California vs. New York, male vs. female) to tailor services and outreach.
+
+It successfully highlights areas of strength, such as overall profitability and high-performing specialties, while identifying risks like declining revenue and potential inefficiencies in doctor-to-patient allocation. 
+
+
+
 
 
 
