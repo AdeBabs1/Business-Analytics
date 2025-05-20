@@ -138,8 +138,9 @@ Geographic and Gender Filtering: Leverage state-level and demographic insights (
 It successfully highlights areas of strength, such as overall profitability and high-performing specialties, while identifying risks like declining revenue and potential inefficiencies in doctor-to-patient allocation. 
 
 
+![DHOSPITAL_DASHBOARD](DHospitalDashboard1.PNG)
 
-
+![DHOSPITAL_DASHBOARD](DHospitalDashboard2.PNG)
 
 
 
