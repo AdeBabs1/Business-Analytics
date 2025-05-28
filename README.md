@@ -143,4 +143,49 @@ It successfully highlights areas of strength, such as overall profitability and 
 ![DHOSPITAL_DASHBOARD](DHospitalDashboard2.PNG)
 
 
+# Project 8
+
+**Title** : [INSTACART PERFORMANCE DASHBOARD](https://github.com/AdeBabs1/dataanalytics)
+
+**Description** : INSTACART (An E-Commerce) performance visualisation
+
+I had used SQL in the past but this recent project reminded me of the power it has when compared to Excel and especially when complemented by a powerful visualisation tool like PBI.
+
+First was the creation of the database in the Postgre SQL, then restoring my database, which led to seeing the Tables and fields in the database.
+
+Using the query tool to bring me back to the last state or current state as at the last work on my SQL database and the use of the following query Syntax:
+SELECT FROM;
+ORDER BY;
+WHERE
+LIMIT;
+INNER AND FULL JOINS;
+
+I then used Power BI for ETL
+1. Extract with Power Query
+Using the Get Data feature, I connected to the SQL Database on PostgreSQL
+This step is typically no-code and the connection is created between PBI and SQL and saved as part of the Power BI report.
+
+2. Transform with Power Query Editor
+After connecting to my data source (SQL database), Power BI automatically launches the Power Query Editor, this is where I was able to do major transformations like:
+Remove duplicates and empty roles and null;
+Filter rows;
+Merged columns;
+Changed data types; and
+Created new and required calculated columns.
+Each transformation step is recorded as a step in the “Applied Steps” pane, helping an iterative process if needed or as required.
+
+3. Load into Power BI Model
+Once the data is shaped and cleaned, I Closed & Applied it into Power BI’s in-memory data model. 
+From here, I was able to:
+Define relationships between tables using the ERD
+Create measures and calculated columns using DAX (Data Analysis Expressions), and
+Begin to build dashboards and reports on top of the structured data
+
+I presented the insights and solutions to stakeholders for the project.
+
+![INSTACART_DASHBOARD](INSTACART.PNG)
+
+
+
+
 
