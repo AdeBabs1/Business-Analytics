@@ -185,6 +185,7 @@ I presented the insights and solutions to stakeholders for the project.
 
 ![INSTACART_DASHBOARD](INSTACART.PNG)
 
+![INSTACART_DASHBOARD](INSTA4.PNG)
 
 
 
