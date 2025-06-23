@@ -208,4 +208,4 @@ A RACI Matrix was created to produce a detailed matrix assigning roles to identi
 
 As a result, recommendations for a revamp of the Current patient appointment system which relies heavily on manual processes and phone calls, that makes the team struggle with increased demand, were provided including an enabled and structured stakeholder engagement and clear role alignment, which will set the stage for smoother implementation of healthcare process improvements and digital transformation initiatives. 
 
-![ZENITH MEDICAL ANALYSIS USING THE BACCM CONCEPT](INSTACART.PNG)
+![ZENITH MEDICAL ANALYSIS USING THE BACCM CONCEPT](Slide1.PNG)(Slide2.PNG)(Slide3.PNG)(Slide4.PNG)(Slide5.PNG)
