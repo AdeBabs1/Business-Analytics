@@ -189,4 +189,23 @@ I presented the insights and solutions to stakeholders for the project.
 
 
 
+# Project 9
 
+**Title** : THE BACCM CONCEPT FOR A HEALTHCARE TRANSFORMATION PROJECT
+
+**Description** [ZENITH MEDICAL ANALYSIS USING THE BACCM CONCEPT](https://github.com/AdeBabs1/dataanalytics)
+
+Stakeholder Analysis and Engagement Strategy for Healthcare Transformation Project
+
+Objective:
+To apply structured business analysis methods, including the BACCM framework, to identify key issues in a medical centre and design a clear stakeholder engagement and responsibility structure to support proposed solutions.
+
+Key Activities: 
+The BACCM concept was analysed for understanding and then needs identification through GAP analysis was carried and results presented. Using key tools and techniques like, interviewing, Survey, and observation for requirements gathering.
+The power vs interest grid, RACI matrix, for stakeholder analysis and Identification:
+All internal and external stakeholders (clinical, administrative, technical, regulatory, and patients) were mapped using the BACCM model to understand their needs, value impact, and relationships with proposed changes. Then, a Stakeholder Power vs Interest Grid was designed to prioritise engagement and communication strategies. High-power, high-interest stakeholders like the CMD, CFO, and Head of IT were identified for active management and consultation.
+A RACI Matrix was created to produce a detailed matrix assigning roles to identify those that are Responsible, Accountable, to be Consulted, and Informed, for each project task, including defining scope, requirements gathering, software introduction, and data integration. This helped clarify roles across cross-functional teams and minimized overlap or gaps in responsibility.
+
+As a result, recommendations for a revamp of the Current patient appointment system which relies heavily on manual processes and phone calls, that makes the team struggle with increased demand, were provided including an enabled and structured stakeholder engagement and clear role alignment, which will set the stage for smoother implementation of healthcare process improvements and digital transformation initiatives. 
+
+![ZENITH MEDICAL ANALYSIS USING THE BACCM CONCEPT](INSTACART.PNG)
